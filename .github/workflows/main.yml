@@ -20,7 +20,7 @@ jobs:
 
     runs-on: windows-latest
 
-     steps:
+   steps:
 
     - uses: actions/checkout@main
 
